@@ -1,7 +1,7 @@
 {
   "name": "portfolio",
   "description": "A portfolio website to showcase my projects and skills.",
-  "homepage": "https://uttam08er.github.io/my-portfolio",
+  "homepage": "https://uttam08er.github.io/my-portfolio/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
